@@ -32,7 +32,10 @@ namespace GITSample
             else
             {
                 //terte
+
+                //This is a comment from the branch code
                 //This is a test commit for story Branch-2
+
 
             }
         }
